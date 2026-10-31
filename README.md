@@ -13,7 +13,6 @@ The program performs the following operations:
 - Image Shearing  
 - Image Reflection (Flipping)  
 - Image Rotation  
-
 ---
 
 ##  Software Used
